@@ -1,0 +1,12 @@
+h3{
+    font-size: 25px !important;
+}
+.btn-success:hover{
+    background-color: rgb(250, 104, 85);
+    border-color: white;
+}
+canvas{
+    border: 3px;
+    border-style: groove;
+    border-color: darkseagreen;
+}
